@@ -1,10 +1,8 @@
-# Predicting-University-Admissions
-**Task Details**
+# Huge Stock Market Dataset
+**Content**
 
-Using the supplied predictive variables (GRE score, TOEFL score, University Rating, etc) to predict the likelihood of admission of a new candidate.
+Full historical daily price and volume data for all US-based stocks and ETFs trading on the
+NYSE, NASDAQ, and NYSE MKT. It's one of the best datasets of its kind you can obtain.
+The data (last updated 11/10/2017) is presented in CSV format as follows: Date, Open, High, Low, Close, Volume, OpenInt. Note that prices have been adjusted for dividends and splits.
 
-**Evaluation Criteria**
-
-The best model should be the one that evaluates to have the lowest RMSE overall, and please indicate the error you get on validation set containing the last 100 observations.
-
-[Here is a link to the dataset](https://www.kaggle.com/mohansacharya/graduate-admissions/tasks?taskId=6)
+[Here is a link to the dataset](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs)
